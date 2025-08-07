@@ -35,7 +35,7 @@ cd scheduler-service
 2. **Create a virtual environment:**
 ```bash
 python -m venv venv
-.env\Scriptsctivate  # For Windows
+.venv\Scripts\activate  # For Windows
 ```
 
 3. **Install dependencies:**
